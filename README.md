@@ -4,6 +4,7 @@ Progress:
 - [x] Replies at irregular intervals
 - [x] Selective replies
 - [ ] Less timid
+- [ ] Be humility
 - [ ] Has human-like emotions
 - [ ] Controllable emotion module
 - [ ] Stable language module
